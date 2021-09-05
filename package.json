@@ -1,7 +1,7 @@
 {
   "name": "data-manager-service",
   "version": "1.0.0",
-  "description": "Servicio para manejar la información",
+  "description": "Servicio que se encarga de manejar el flujo de datos de las páginas y usuarios",
   "main": "index.js",
   "scripts": {
     "coverage": "nyc npm test",
