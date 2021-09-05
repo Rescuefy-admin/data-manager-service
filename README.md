@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Servicio para manejar la información
+Servicio que se encarga de manejar el flujo de datos de las páginas y usuarios
 
 ## APIs
 
